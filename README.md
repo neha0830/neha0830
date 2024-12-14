@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+As a recent MBA graduate with a focus on finance, I am passionate about leveraging my academic knowledge and analytical skills to drive financial decision-making and business growth. 
+During my studies and internships, I gained hands-on experience in financial modeling, data analysis, business analysis, and strategic planning. 
+My goal is to contribute to a dynamic organization where I can apply these skills and continue to develop professionally.
+
 <!--
 **neha0830/neha0830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
